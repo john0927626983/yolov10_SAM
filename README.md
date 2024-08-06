@@ -1,2 +1,2 @@
 # yolov10_SAM
-yolov10 with segment anything
+Train a Yolov10 model on colab then use the bounding box from Yolo inference with segment anything model.
